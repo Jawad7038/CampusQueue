@@ -25,4 +25,4 @@ Mobile web app: QR check-in/out → live heatmap + "ETA: 12 mins" predictions + 
 Backend APIs + prediction logic from Computing/Digital Logic modules + Shopify API experience.
 
 
-**GitHub:** github.com/Jawad703/campusqueue
+**GitHub:** github.com/Jawad7038/campusqueue
